@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 575px) {
+    .container {
+        flex-flow: column wrap;
+    }
+
+    .container2 {
+        margin: 20px 0;
+        flex: 1;
+        text-align: start;
+    }
+}
