@@ -10,7 +10,7 @@
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f8ddb1;
+    background-color: #f5e1c0;
   }
   
   header {
@@ -18,7 +18,7 @@
     background-size: cover; /*enquadrar foto*/
 
     position: relative;
-    height: 60vh;
+    height: 55vh;
     background-color: #f4f4f4;
     display: flex;
     justify-content: center;
@@ -123,7 +123,7 @@
   }
 
   section#sobre {
-    background-color: #f4f4f41e;
+    background-color: #4643431e;
 
     border-radius: 10px;
     
@@ -132,7 +132,7 @@
   }
 
   section#habilidades {
-    background-color: #f4f4f41e;
+    background-color: #4643431e;
 
     border-radius: 10px;
     
@@ -155,7 +155,7 @@
   }
 
   section#servicos {
-    background-color: #f4f4f41e;
+    background-color: #4643431e;
 
     border-radius: 10px;
     
