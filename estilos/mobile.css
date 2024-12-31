@@ -3,7 +3,7 @@
 @media screen and (max-width: 575px) {
     .container {
         flex-flow: column wrap;
-        width: 320px;
+        width: 330px;
         height: auto;
     }
 
@@ -12,7 +12,7 @@
         flex: 1;
         text-align: start;
 
-        width: 320px;
+        width: 330px;
 
         display: flex;
         flex-flow: column wrap;
