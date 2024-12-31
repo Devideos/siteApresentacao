@@ -16,7 +16,9 @@
 
         display: flex;
         flex-flow: column wrap;
+    }
 
-
+    section#sobre > p {
+        font-size: 1em;
     }
 }
