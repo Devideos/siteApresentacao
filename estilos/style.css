@@ -31,7 +31,7 @@
     margin-bottom: 20px;
     width: 150px;
     height: 150px;
-    border: 5px solid burlywood;
+    border: 5px solid rgb(204, 196, 184);
     border-radius: 50%;
     overflow: hidden; /* faz a imagem se enquadrar no circulo*/
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -48,7 +48,7 @@
     font-size: 2rem;
     margin-bottom: 10px;
 
-    color: rgb(255, 217, 167);
+    color: rgb(214, 210, 203);
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.137);
   }
   
