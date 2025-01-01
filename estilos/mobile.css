@@ -21,4 +21,8 @@
     section#sobre > p {
         font-size: 1em;
     }
+
+    section#habilidades {
+        margin: 30px 0px;
+    }
 }
