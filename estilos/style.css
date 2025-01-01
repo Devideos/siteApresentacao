@@ -97,8 +97,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-
-    
+   
     margin: auto;   
   }
 
@@ -165,6 +164,12 @@
   section#servicos {
     background-color: #4643431e;
 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    text-align: center;
+
     border-radius: 10px;
     
     padding: 10px;
@@ -173,4 +178,25 @@
 
   section#servicos > p {
     font-size: 1.2em;
+  }
+
+  .container2 > #servicos > .serv {
+    display: flex;
+    flex-flow: column wrap;
+
+    background-color: #332e2e;
+    color: #ffffff;
+
+    width: 250px;
+    height: auto;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px; /* Espaçamento entre os cards */
+    
+  }
+
+  #servicos > h2 {
+    width: 100%;
+    text-align: center; 
+    margin-bottom: 20px;
   }
