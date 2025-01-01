@@ -10,7 +10,7 @@
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #eee7dd;
+    background-color: #e7e6e4;
   }
   
   header {
@@ -124,12 +124,8 @@
   }
 
   section#sobre {
-    background-color: #4643431e;
-
-    border-radius: 10px;
-    
+    border-radius: 10px; 
     padding: 10px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.397);
   }
 
   section#sobre > p {
@@ -140,14 +136,9 @@
   }
 
   section#habilidades {
-    background-color: #4643431e;
-
     border-radius: 10px;
-
-    margin-bottom: 120px;
-    
+    margin-bottom: 120px;   
     padding: 10px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.397);
   }
 
   section#habilidades > ul {
@@ -164,19 +155,19 @@
     font-size: 40px; /*aumenta o tamanho das figuras*/
   }
 
-  section#servicos {
-    background-color: #4643431e;
+  section#habilidades > h2 {
+    margin-bottom: 50px;
+  }
 
+  section#servicos {
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-flow: row wrap;
     text-align: center;
 
-    border-radius: 10px;
-    
+    border-radius: 10px;   
     padding: 10px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.397);
   }
 
   section#servicos > p {
