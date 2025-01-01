@@ -134,6 +134,9 @@
 
   section#sobre > p {
     font-size: 1.2em;
+    line-height: 2em; /*altura entre linhas*/
+    text-indent: 1em; /*recuo de texto*/
+    text-align: justify; /*Organiza o texto*/
   }
 
   section#habilidades {
@@ -187,7 +190,7 @@
     background-color: #332e2e;
     color: #ffffff;
 
-    width: 250px;
+    width: 280px;
     height: auto;
     border-radius: 15px;
     padding: 10px;
@@ -199,4 +202,14 @@
     width: 100%;
     text-align: center; 
     margin-bottom: 20px;
+  }
+
+  #servicos > .serv p {
+    line-height: 2em; /*altura entre linhas*/
+  }
+
+  /*Configura os icons de serviço*/
+  div.serv > i {
+    font-size: 40px;
+    padding: 10px;
   }
