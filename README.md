@@ -1,2 +1,2 @@
 # meu-site
- site de apresentação do meu trabalho 
+ site desenvolvido para falar um pouco sobre mim e apresentar alguns dos meus trabalhos 
