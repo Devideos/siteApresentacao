@@ -131,7 +131,6 @@
   section#sobre > p {
     font-size: 1.2em;
     line-height: 2em; /*altura entre linhas*/
-    text-indent: 1em; /*recuo de texto*/
     text-align: justify; /*Organiza o texto*/
   }
 
